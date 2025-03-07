@@ -5,6 +5,9 @@ This is for learning purposes only
 This is my first repository
 
 ### Third header
-** This will be bold **
+** This will be bold **  
 *italized*
-~~cross out this text~~
+~~cross out this text~~  
+<sub>subscript?</sub>  
+<ins>underline</ins>  
+
