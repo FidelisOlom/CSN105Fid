@@ -11,3 +11,9 @@ This is my first repository
 <sub>subscript?</sub>  
 <ins>underline</ins>  
 
+> this is a quote
+
+ ...
+This is for code example
+Code looks like this
+...
